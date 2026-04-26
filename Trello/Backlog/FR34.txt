@@ -1,0 +1,1 @@
+Logout from system for Member
