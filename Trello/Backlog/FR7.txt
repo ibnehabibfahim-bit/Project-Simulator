@@ -1,1 +1,1 @@
-Update book information for Admin
+FR7: Remove book for Admin
